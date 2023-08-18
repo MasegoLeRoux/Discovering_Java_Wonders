@@ -1,4 +1,4 @@
-<p align="center">## Φως της Java: Discovering Java Wonders</p>
+<h1 align="center">## Φως της Java: Discovering Java Wonders</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/huaOa3x84nZspWxwx7/giphy.gif" alt="Project Preview">
